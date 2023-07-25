@@ -1,2 +1,2 @@
-# sahajanandacademy
+# index.html
 My Education website
